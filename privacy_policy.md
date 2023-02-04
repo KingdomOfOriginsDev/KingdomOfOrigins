@@ -29,7 +29,7 @@ No data such as usage statistics, progress, or personnal information is, and nev
 
 ## Removal of your data
 Any data collected, except in certain scenarios to avoid cheating/exploits, can be requested to be removed. 
-To do so, you reach out throught the means displayed in [the contact section].(#Contact)
+To do so, you reach out throught the means displayed in [the contact section].(#contact)
 
 ## Contact 
 For any questions or concerns, feel free to contact us by the following means:
