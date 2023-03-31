@@ -28,9 +28,12 @@ The limited data collected may still be displayed publicly in certain situations
 We will never sell any data, including usage statistics, progress, or personal information, to any third party.
 
 ## Removal of your data
-Unless collected to prevent cheating/exploits, we will remove any collected data upon request. To request data removal, please contact us through one of the methods provided in the [Contact us](#contact) section.
+Unless collected to prevent cheating/exploits, we will remove any collected data upon request. To request data removal, please contact us through one of the methods provided in the [Contact us](#contact) section. You may request a data deletion once every 30 days.
 
 ## Contact Us
 For any questions or concerns about the Service or other, feel free to contact us by the following means:
 - Through the support server directly by opening a ticket (link can be found on the Service discovery page on Discord or at https://discord.gg/dQH5emcdZF)
 - Via email at "kingdomorigins.botdev@gmail.com"
+
+
+We reserve the right to modify these terms of service at any time without notice. Your continued use of the Game after any modifications to this Agreement indicates that you agree to the modified terms.
