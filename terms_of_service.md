@@ -2,7 +2,7 @@
 
 *Last updated on: March 31, 2023*
 
-This privacy policy applies to the Discord bot "Kingdom of Origins#4872", with the unique id 797307180024987662. 
+This terms of service applies to the Discord bot "Kingdom of Origins#4872", with the unique id 797307180024987662. 
 
 ## Introduction
 
